@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Testes/cincoCsharp/bin/Debug/net6.0
+/Testes/cincoCsharp/obj
+/Testes/DoisCsharp/bin/Debug/net6.0
+/Testes/DoisCsharp/obj
+/Testes/quatroCsharp/bin/Debug/net6.0
+/Testes/quatroCsharp/obj
+/Testes/tresCsharp/obj
+/Testes/tresCsharp/bin/Debug/net6.0
+/Testes/UmCsharp/obj
+/Testes/UmCsharp/bin/Debug/net6.0
